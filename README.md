@@ -1,6 +1,6 @@
 
   
-# TECHIFY - Built during HackForWomen 2020 under 12 hours
+# TECHIFY - Built to empower women all over globe
 
 **Production:** https://techify-kdc.herokuapp.com/ 
 
@@ -12,12 +12,11 @@ https://techify-kdc.herokuapp.com/-->
 
 This platform is designed to connect women all over the world where they can get all information related to the tech and can share their ideas. They can get resources as per their need and can connect with other women to work upon their ideas. It can also be used by women to sell their homemade products which will help them in their economic growth.
 #
-**YouTube Link:** https://www.youtube.com/watch?v=JsMcYSJdkLg
 
 ##### [Desktop]
 <img src="https://github.com/KushalBhanot/Techify/blob/master/Screenshots/Desktop%20View.png" width="45%">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KushalBhanot/Techify/blob/master/Screenshots/Desktop%20View%202.png" width="45%">
 ##### [Mobile]
-<img src="https://github.com/KushalBhanot/Techify/blob/master/Screenshots/Mobile%20View.png" width="20%">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KushalBhanot/Techify/blob/master/Screenshots/Mobile%20View%202.png" width="20%">
+<img src="https://github.com/KushalBhanot/Techify/blob/master/Screenshots/Mobile%20View.png" width="20%">&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Contributions to this repo are WELCOME ⚡️🙌🏻
 - :art: give suggestions on how to improve the UI design
@@ -25,14 +24,8 @@ This platform is designed to connect women all over the world where they can get
 - 🤸🏻 If you're new to open-source contributions, then you can simply start by picking up a **ToDo** given below 😊
 
 ## ToDo 🤸🏻
-- [x] Home Page
-- [x] Login Page
-- [x] Signup Page
-- [x] Resources Page
 - [x] Products Page
 - [x] Ideas Page 
-- [x] PPT explanation
-- [x] Video explanation
 
 ## Steps to be followed in order to make valid contributions ☘️
 
