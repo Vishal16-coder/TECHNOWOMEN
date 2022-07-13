@@ -1,6 +1,6 @@
 
   
-# TECHIFY - Built to empower women all over globe
+# TECHNOWOMEN - Built to empower women all over globe
 
 **Production:** https://techify-kdc.herokuapp.com/ 
 
@@ -29,15 +29,15 @@ This platform is designed to connect women all over the world where they can get
 
 ## Steps to be followed in order to make valid contributions ☘️
 
-**1.** Fork the [Techify](https://github.com/KushalBhanot/Techify) repo by clicking on the fork button on the top of the page. This will create a copy of this repository in your account.
+**1.** Fork the [Technowomen](https://github.com/Vishal16-coder/TECHNOWOMEN) repo by clicking on the fork button on the top of the page. This will create a copy of this repository in your account.
 
 **2.** Clone the forked repository
 
-	git clone "https://github.com/<your-github-username>/Techify"
+	git clone "https://github.com/<your-github-username>/Technowomen"
 	
 **3.** Create a branch named **develop**
 
-	cd Techify
+	cd Technowomen
 	git checkout -b develop
 	
 **4.** Make necessary changes and commit those changes
