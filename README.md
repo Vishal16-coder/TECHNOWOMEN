@@ -2,10 +2,10 @@
   
 # TECHNOWOMEN - Built to empower women all over globe
 
-**Production:** https://techify-kdc.herokuapp.com/ 
+<!--**Production:** https://techify-kdc.herokuapp.com/-->
 
-**Develop:**
-https://techify.vercel.app/
+<!--**Develop:**
+https://techify.vercel.app/-->
 
 <!-- **Production:** 
 https://techify-kdc.herokuapp.com/-->
@@ -14,7 +14,9 @@ This platform is designed to connect women all over the world where they can get
 #
 
 ##### [Desktop]
-<img src="https://github.com/KushalBhanot/Techify/blob/master/Screenshots/Desktop%20View.png" width="45%">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/KushalBhanot/Techify/blob/master/Screenshots/Desktop%20View%202.png" width="45%">
+![image](https://user-images.githubusercontent.com/68794772/184946843-8d7dc65d-27e4-4105-9d5d-c29bb449d18d.png)
+![image](https://user-images.githubusercontent.com/68794772/184947176-2f4c6e93-d82a-4c8a-9b67-8bda99ef8970.png)
+
 ##### [Mobile]
 <img src="https://github.com/KushalBhanot/Techify/blob/master/Screenshots/Mobile%20View.png" width="20%">&nbsp;&nbsp;&nbsp;&nbsp;
 
