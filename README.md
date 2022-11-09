@@ -17,8 +17,6 @@ This platform is designed to connect women all over the world where they can get
 ![image](https://user-images.githubusercontent.com/68794772/184946843-8d7dc65d-27e4-4105-9d5d-c29bb449d18d.png)
 ![image](https://user-images.githubusercontent.com/68794772/184947176-2f4c6e93-d82a-4c8a-9b67-8bda99ef8970.png)
 
-##### [Mobile]
-<img src="https://github.com/KushalBhanot/Techify/blob/master/Screenshots/Mobile%20View.png" width="20%">&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Contributions to this repo are WELCOME ⚡️🙌🏻
 - :art: give suggestions on how to improve the UI design
